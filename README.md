@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Srishti-2006
-- 👀 I’m interested in ... AI/ML
+- ### Hi, I'm Srishti Maurya
+  
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
